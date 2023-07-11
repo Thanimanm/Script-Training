@@ -21,6 +21,7 @@ function(record) {
     function pageInit(scriptContext) {
         log.debug("Git Training");
         log.debug("Git Training test")
+        log.debug("Git Training test 3")
 
     }
 
